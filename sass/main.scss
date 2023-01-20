@@ -1,7 +1,10 @@
 @import "./utils/variables";
 @import "./utils/base";
+@import "./utils/visually-hidden";
+
 @import "./components/index-section-hero";
-
-
+// Дмитро, це тобі для відображення модалки з формою
+@import "./components/modal";
+@import "./components/form";
 
 
